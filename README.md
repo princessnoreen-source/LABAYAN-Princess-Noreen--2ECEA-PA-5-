@@ -1,4 +1,6 @@
-#PROGRAMMING ASSIGNMENT #5
+# PROGRAMMING ASSIGNMENT #5
+## Labayan, Princess Noreen A.
+## 2ECE-A
 
 This repository is a partial requirement for ECE 2112 "Advanced Computer Programming and Algorithms" as Programming Assignment #5. Its objective is to demonstrate the use of MATLAB in performing matrix operations, transpose operations, and solving systems of linear equations using the inverse method and Cramer's Rule.
 
